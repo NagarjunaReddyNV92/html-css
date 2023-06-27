@@ -1,0 +1,24 @@
+.main-cintainer {
+    width: 600px;
+    border: 1px black solid;
+    margin: auto;
+
+}
+div {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+label, input {
+    margin-bottom: 10px;
+}
+select {
+    margin-bottom: 10px;
+}
+#sub {
+    
+    background-color: aqua;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
